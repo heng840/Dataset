@@ -1,0 +1,183 @@
+{"relation": "P19", "pattern": "[X] était natif de [Y]."}
+{"relation": "P19", "pattern": "[X] tire son origine de [Y]."}
+{"relation": "P19", "pattern": "[X] est originaire de [Y]."}
+{"relation": "P19", "pattern": "[X] était originaire de [Y]."}
+{"relation": "P19", "pattern": "[X] est né en [Y]."}
+{"relation": "P19", "pattern": "[X] est natif de [Y]."}
+{"relation": "P413", "pattern": "[X] joue comme [Y]."}
+{"relation": "P413", "pattern": "[X] joue au poste de [Y]."}
+{"relation": "P127", "pattern": "[X] appartient à [Y]."}
+{"relation": "P127", "pattern": "[X] est la propriété de [Y]."}
+{"relation": "P449", "pattern": "[X] est présenté en première sur [Y]."}
+{"relation": "P449", "pattern": "[X] a été présenté en première sur [Y]."}
+{"relation": "P449", "pattern": "[X] doit faire ses débuts sur [Y]."}
+{"relation": "P449", "pattern": "[X] a fait ses débuts sur [Y]."}
+{"relation": "P449", "pattern": "[X] a été diffusé à l'origine sur [Y]."}
+{"relation": "P449", "pattern": "[X] est sorti sur [Y]."}
+{"relation": "P106", "pattern": "La profession de [X] est [Y]."}
+{"relation": "P106", "pattern": "L'occupation de [X] est [Y]."}
+{"relation": "P106", "pattern": "[X], qui travaille comme [Y]."}
+{"relation": "P106", "pattern": "Le métier de [X] est [Y]."}
+{"relation": "P106", "pattern": "[X] travaille comme [Y]."}
+{"relation": "P108", "pattern": "[X], qui travaille pour [Y]."}
+{"relation": "P108", "pattern": "[X], qui est employé par [Y]."}
+{"relation": "P108", "pattern": "[X] est employé par [Y]."}
+{"relation": "P108", "pattern": "[X] travaille pour [Y]."}
+{"relation": "P937", "pattern": "[X] travaillait avant en [Y]."}
+{"relation": "P937", "pattern": "[X] a commencé à travailler en [Y]."}
+{"relation": "P937", "pattern": "[X] a travaillé en [Y]."}
+{"relation": "P937", "pattern": "[X] a trouvé un emploi en [Y]."}
+{"relation": "P937", "pattern": "[X] était employé en [Y]."}
+{"relation": "P136", "pattern": "[X], qui joue du [Y]."}
+{"relation": "P136", "pattern": "[X] joue du [Y]."}
+{"relation": "P276", "pattern": "[X] est à [Y]."}
+{"relation": "P276", "pattern": "[X] se trouve à [Y]."}
+{"relation": "P176", "pattern": "[X] est créé par [Y]."}
+{"relation": "P176", "pattern": "[X], un produit de [Y]."}
+{"relation": "P176", "pattern": "[X] est produit par [Y]."}
+{"relation": "P176", "pattern": "[X] est développé par [Y]."}
+{"relation": "P176", "pattern": "[X] est un produit de [Y]."}
+{"relation": "P176", "pattern": "[X], créé par [Y]."}
+{"relation": "P176", "pattern": "[X], développé par [Y]."}
+{"relation": "P176", "pattern": "[X], un produit développé par [Y]."}
+{"relation": "P176", "pattern": "[X], un produit créé par [Y]."}
+{"relation": "P176", "pattern": "[X], produit par [Y]."}
+{"relation": "P364", "pattern": "La langue d'origine de [X] était [Y]."}
+{"relation": "P364", "pattern": "La langue de [X] est [Y]."}
+{"relation": "P364", "pattern": "La langue de [X] était [Y]."}
+{"relation": "P364", "pattern": "La langue d'origine de [X] est [Y]."}
+{"relation": "P407", "pattern": "[X] a été écrit en [Y]."}
+{"relation": "P407", "pattern": "La langue de [X] était [Y]."}
+{"relation": "P407", "pattern": "[X] est écrit en [Y]."}
+{"relation": "P407", "pattern": "La langue de [X] est [Y]."}
+{"relation": "P740", "pattern": "[X] a été créé en [Y]."}
+{"relation": "P740", "pattern": "[X] qui a été fondé en [Y]."}
+{"relation": "P740", "pattern": "[X], qui a été créé en [Y]."}
+{"relation": "P740", "pattern": "[X], qui a été formé en [Y]."}
+{"relation": "P740", "pattern": "[X] a démarré en [Y]."}
+{"relation": "P740", "pattern": "[X], créé en [Y]."}
+{"relation": "P740", "pattern": "[X] est originaire de [Y]."}
+{"relation": "P740", "pattern": "[X], qui a été lancé en [Y]."}
+{"relation": "P740", "pattern": "[X] s'est formé en [Y]."}
+{"relation": "P740", "pattern": "[X] a commencé en [Y]."}
+{"relation": "P740", "pattern": "[X] a été formé en [Y]."}
+{"relation": "P740", "pattern": "[X] a été fondé en [Y]."}
+{"relation": "P740", "pattern": "[X], qui est originaire de [Y]."}
+{"relation": "P740", "pattern": "[X], fondé en [Y]."}
+{"relation": "P138", "pattern": "[X] portait le nom de [Y]."}
+{"relation": "P138", "pattern": "[X], qui est nommé d'après [Y]."}
+{"relation": "P138", "pattern": "[X], qui portait le nom de [Y]."}
+{"relation": "P138", "pattern": "[X], qui était nommé d'après [Y]."}
+{"relation": "P138", "pattern": "[X], nommé d'après [Y]."}
+{"relation": "P138", "pattern": "[X], qui porte le nom de [Y]."}
+{"relation": "P138", "pattern": "[X] est nommé d'après [Y]."}
+{"relation": "P138", "pattern": "[X] a été nommé d'après [Y]."}
+{"relation": "P138", "pattern": "[X] porte le nom de [Y]."}
+{"relation": "P17", "pattern": "[X] est situé en [Y]."}
+{"relation": "P17", "pattern": "[X], qui est situé en [Y]."}
+{"relation": "P17", "pattern": "[X], situé en [Y]."}
+{"relation": "P264", "pattern": "La maison de disques de [X] est [Y]."}
+{"relation": "P264", "pattern": "[X] a enregistré pour [Y]."}
+{"relation": "P264", "pattern": "Le label représentant [X] est [Y]."}
+{"relation": "P264", "pattern": "Le label qui représente [X] est [Y]."}
+{"relation": "P264", "pattern": "[X] est représenté par la maison de disques [Y]."}
+{"relation": "P264", "pattern": "[X] est représenté par [Y]."}
+{"relation": "P264", "pattern": "L'étiquette de [X] est [Y]."}
+{"relation": "P264", "pattern": "Label de [X] : [Y]."}
+{"relation": "P264", "pattern": "[X], qui est représenté par [Y]."}
+{"relation": "P264", "pattern": "[X], édité par [Y]."}
+{"relation": "P264", "pattern": "[X] est représenté par le label [Y]."}
+{"relation": "P264", "pattern": "Le label de [X] est [Y]."}
+{"relation": "P27", "pattern": "[X], qui possède la citoyenneté de [Y]."}
+{"relation": "P27", "pattern": "[X], qui est citoyen de [Y]."}
+{"relation": "P27", "pattern": "[X], citoyen de [Y]."}
+{"relation": "P27", "pattern": "[X] détient la citoyenneté de [Y]."}
+{"relation": "P27", "pattern": "[X] a la citoyenneté de [Y]."}
+{"relation": "P27", "pattern": "[X] est citoyen de [Y]."}
+{"relation": "P27", "pattern": "[X], qui détient la citoyenneté de [Y]."}
+{"relation": "P39", "pattern": "[X] occupe le poste de [Y]."}
+{"relation": "P39", "pattern": "Le poste de [X] est [Y]."}
+{"relation": "P39", "pattern": "[X], qui détient le poste de [Y]."}
+{"relation": "P39", "pattern": "[X], dont le poste est celui de [Y]."}
+{"relation": "P39", "pattern": "[X], qui occupe le poste de [Y]."}
+{"relation": "P101", "pattern": "[X] est spécialisé en [Y]."}
+{"relation": "P101", "pattern": "[X] travaille dans le secteur de [Y]."}
+{"relation": "P101", "pattern": "L'expertise de [X] est [Y]."}
+{"relation": "P101", "pattern": "Le domaine de travail de [X] est [Y]."}
+{"relation": "P101", "pattern": "Le domaine d'activité de [X] est [Y]."}
+{"relation": "P101", "pattern": "Le domaine d'expertise de [X] est [Y]."}
+{"relation": "P101", "pattern": "[X] travaille dans le domaine de [Y]."}
+{"relation": "P101", "pattern": "Le secteur d'activité de [X] est [Y]."}
+{"relation": "P20", "pattern": "[X] s'est éteint en [Y]."}
+{"relation": "P20", "pattern": "[X] a succombé à [Y]."}
+{"relation": "P20", "pattern": "[X] s'est éteint à [Y]."}
+{"relation": "P20", "pattern": "[X] est mort à [Y]."}
+{"relation": "P20", "pattern": "La vie de [X] s'est terminée en [Y]."}
+{"relation": "P20", "pattern": "[X] est décédé en [Y]."}
+{"relation": "P20", "pattern": "[X] a perdu la vie à [Y]."}
+{"relation": "P20", "pattern": "[X] a expiré à [Y]."}
+{"relation": "P159", "pattern": "Le siège de [X] se trouve à [Y]."}
+{"relation": "P159", "pattern": "[X] est basé à [Y]."}
+{"relation": "P159", "pattern": "Le siège de [X] est situé à [Y]."}
+{"relation": "P159", "pattern": "[X] a son siège à [Y]."}
+{"relation": "P159", "pattern": "Le siège social de [X] est à [Y]."}
+{"relation": "P159", "pattern": "[X], dont le siège est à [Y]."}
+{"relation": "P1303", "pattern": "[X] joue de l'instrument [Y]."}
+{"relation": "P1303", "pattern": "[X] joue du [Y]."}
+{"relation": "P1376", "pattern": "[X], qui est la capitale de [Y]."}
+{"relation": "P1376", "pattern": "[X], la capitale de [Y]."}
+{"relation": "P1376", "pattern": "[X] est la capitale de [Y]."}
+{"relation": "P30", "pattern": "[X] est situé en [Y]."}
+{"relation": "P30", "pattern": "[X] appartient au continent [Y]."}
+{"relation": "P30", "pattern": "[X] fait partie du continent [Y]."}
+{"relation": "P30", "pattern": "[X] se trouve sur le continent [Y]."}
+{"relation": "P530", "pattern": "[X], qui a des relations diplomatiques avec [Y]."}
+{"relation": "P530", "pattern": "[X] a des relations diplomatiques avec [Y]."}
+{"relation": "P530", "pattern": "[X] entretient des relations diplomatiques avec [Y]."}
+{"relation": "P463", "pattern": "[X] est membre de [Y]."}
+{"relation": "P463", "pattern": "[X] appartient à l'organisation [Y]."}
+{"relation": "P463", "pattern": "[X] est affilié à [Y]."}
+{"relation": "P131", "pattern": "[X] peut être trouvé à [Y]."}
+{"relation": "P131", "pattern": "[X] est situé à [Y]."}
+{"relation": "P131", "pattern": "[X] se trouve à [Y]."}
+{"relation": "P495", "pattern": "[X] a été créé en [Y]."}
+{"relation": "P495", "pattern": "[X] a été développé en [Y]."}
+{"relation": "P495", "pattern": "[X], formulé en [Y]."}
+{"relation": "P495", "pattern": "[X], originaire de [Y]."}
+{"relation": "P495", "pattern": "[X], qui a été créé en [Y]."}
+{"relation": "P495", "pattern": "[X], qui a été formé en [Y]."}
+{"relation": "P495", "pattern": "[X], qui était originaire de [Y]."}
+{"relation": "P495", "pattern": "[X] est originaire de [Y]."}
+{"relation": "P495", "pattern": "[X], créé en [Y]."}
+{"relation": "P495", "pattern": "[X], qui a été formulé en [Y]."}
+{"relation": "P495", "pattern": "[X] s'est formé en [Y]."}
+{"relation": "P495", "pattern": "[X] a été formulé en [Y]."}
+{"relation": "P495", "pattern": "[X] était originaire de [Y]."}
+{"relation": "P495", "pattern": "[X] a été formé en [Y]."}
+{"relation": "P495", "pattern": "[X], qui a été développé en [Y]."}
+{"relation": "P495", "pattern": "[X], qui est originaire de [Y]."}
+{"relation": "P495", "pattern": "[X], développé en [Y]."}
+{"relation": "P36", "pattern": "La ville capitale de [X] est [Y]."}
+{"relation": "P36", "pattern": "La capitale de [X] est [Y]."}
+{"relation": "P36", "pattern": "La capitale de [X], [Y]."}
+{"relation": "P279", "pattern": "[X] est une sous-classe de [Y]."}
+{"relation": "P279", "pattern": "[X], une sous-classe de [Y]."}
+{"relation": "P279", "pattern": "[X], un type de [Y]."}
+{"relation": "P279", "pattern": "[X], qui est une sous-classe de [Y]."}
+{"relation": "P47", "pattern": "[X] a une frontière commune avec [Y]."}
+{"relation": "P47", "pattern": "[X] a une frontière avec [Y]."}
+{"relation": "P47", "pattern": "[X] est limitrophe de [Y]."}
+{"relation": "P47", "pattern": "[X] partage une frontière avec [Y]."}
+{"relation": "P47", "pattern": "[X] est frontalier de [Y]."}
+{"relation": "P178", "pattern": "[X] a été développé par [Y]."}
+{"relation": "P178", "pattern": "[X] est créé par [Y]."}
+{"relation": "P178", "pattern": "[X], un produit de [Y]."}
+{"relation": "P178", "pattern": "[X] est développé par [Y]."}
+{"relation": "P178", "pattern": "[X] est un produit de [Y]."}
+{"relation": "P178", "pattern": "[X], créé par [Y]."}
+{"relation": "P178", "pattern": "[X], développé par [Y]."}
+{"relation": "P178", "pattern": "[X] a été créé par [Y]."}
+{"relation": "P178", "pattern": "[X], un produit développé par [Y]."}
+{"relation": "P178", "pattern": "[X] était un produit de [Y]."}
+{"relation": "P178", "pattern": "[X], un produit fabriqué par [Y]."}
+{"relation": "P178", "pattern": "[X], un produit créé par [Y]."}

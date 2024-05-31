@@ -1,0 +1,35 @@
+{"relation": "P19", "pattern": "[X] syntyi [Y]."}
+{"relation": "P20", "pattern": "[X] kuoli [Y]: ss\u00e4."}
+{"relation": "P279", "pattern": "[X] on alaluokka kohdasta [Y]."}
+{"relation": "P413", "pattern": "[X] pelaa [Y] -asennossa."}
+{"relation": "P449", "pattern": "[X] esitettiin alun perin [Y]: ss\u00e4."}
+{"relation": "P47", "pattern": "[X] jakaa rajan [Y]: n kanssa."}
+{"relation": "P138", "pattern": "[X] on nimetty [Y]."}
+{"relation": "P364", "pattern": "[X]: n alkuper\u00e4inen kieli on [Y]."}
+{"relation": "P463", "pattern": "[X] on j\u00e4senen [Y] j\u00e4sen."}
+{"relation": "P101", "pattern": "[X] toimii kent\u00e4ss\u00e4 [Y]."}
+{"relation": "P106", "pattern": "[X] on ammatin mukaan [Y]."}
+{"relation": "P530", "pattern": "[X] yll\u00e4pit\u00e4\u00e4 diplomaattisuhteita [Y]: n kanssa."}
+{"relation": "P176", "pattern": "[X] tuottaa [Y]."}
+{"relation": "P27", "pattern": "[X] on [Y] kansalainen."}
+{"relation": "P407", "pattern": "[X] kirjoitettiin kielell\u00e4 [Y]."}
+{"relation": "P30", "pattern": "[X] sijaitsee kohdassa [Y]."}
+{"relation": "P178", "pattern": "[X] on kehitt\u00e4nyt [Y]."}
+{"relation": "P1376", "pattern": "[X] on [Y]: n p\u00e4\u00e4kaupunki."}
+{"relation": "P131", "pattern": "[X] sijaitsee kohdassa [Y]."}
+{"relation": "P1412", "pattern": "[X] kommunikoitiin [Y]: ss\u00e4."}
+{"relation": "P108", "pattern": "[X] toimii kohteelle [Y]."}
+{"relation": "P136", "pattern": "[X] soittaa [Y] -musiikkia."}
+{"relation": "P17", "pattern": "[X] sijaitsee kohdassa [Y]."}
+{"relation": "P39", "pattern": "[X]: n sijainti on [Y]."}
+{"relation": "P264", "pattern": "[X] edustaa musiikkitarra [Y]."}
+{"relation": "P276", "pattern": "[X] sijaitsee kohdassa [Y]."}
+{"relation": "P937", "pattern": "[X] ty\u00f6skenteli aikaisemmin [Y]."}
+{"relation": "P1303", "pattern": "[X] pelaa [Y]."}
+{"relation": "P127", "pattern": "[X] omistaa [Y]."}
+{"relation": "P103", "pattern": "[X]: n \u00e4idinkieli on [Y]."}
+{"relation": "P495", "pattern": "[X] luotiin [Y]: ss\u00e4."}
+{"relation": "P159", "pattern": "P\u00e4\u00e4konttori [X] sijaitsee [Y]."}
+{"relation": "P36", "pattern": "P\u00e4\u00e4oman [X] p\u00e4\u00e4oma on [Y]."}
+{"relation": "P740", "pattern": "[X] perustettiin [Y]."}
+{"relation": "P361", "pattern": "[X] on osa [Y]."}

@@ -1,0 +1,35 @@
+{"relation": "P19", "pattern": "[X] [Y] -ben sz\u00fcletett."}
+{"relation": "P20", "pattern": "[X] [Y] -ben halt meg."}
+{"relation": "P279", "pattern": "[X] az [Y] aloszt\u00e1lya."}
+{"relation": "P413", "pattern": "[X] j\u00e1tszik [Y] helyzetben."}
+{"relation": "P449", "pattern": "[X] -\u00e9t eredetileg [Y] -on adt\u00e1k."}
+{"relation": "P47", "pattern": "[X] megosztja a hat\u00e1r\u00e1t az [Y] -nel."}
+{"relation": "P138", "pattern": "[X] elnevez\u00e9se [Y]."}
+{"relation": "P364", "pattern": "[X] eredeti nyelve [Y]."}
+{"relation": "P463", "pattern": "[X] az [Y] tagja."}
+{"relation": "P101", "pattern": "[X] az [Y] ter\u00fclet\u00e9n m\u0171k\u00f6dik."}
+{"relation": "P106", "pattern": "[X] szakma szerint [Y]."}
+{"relation": "P530", "pattern": "[X] diplom\u00e1ciai kapcsolatot tart fenn az [Y] -val."}
+{"relation": "P176", "pattern": "[X] -et [Y] \u00e1ll\u00edtja el\u0151."}
+{"relation": "P27", "pattern": "[X] [Y] \u00e1llampolg\u00e1r."}
+{"relation": "P407", "pattern": "[X] -\u00e9t [Y] -ben \u00edrt\u00e1k."}
+{"relation": "P30", "pattern": "[X] az [Y] -ban tal\u00e1lhat\u00f3."}
+{"relation": "P178", "pattern": "[X] -et az [Y] fejlesztette ki."}
+{"relation": "P1376", "pattern": "[X] az [Y] f\u0151v\u00e1rosa."}
+{"relation": "P131", "pattern": "[X] az [Y] -ban tal\u00e1lhat\u00f3."}
+{"relation": "P1412", "pattern": "[X] az [Y] nyelven t\u00f6rt\u00e9n\u0151 kommunik\u00e1ci\u00f3hoz haszn\u00e1lt."}
+{"relation": "P108", "pattern": "[X] az [Y] sz\u00e1m\u00e1ra m\u0171k\u00f6dik."}
+{"relation": "P136", "pattern": "[X] [Y] zen\u00e9t j\u00e1tszik."}
+{"relation": "P17", "pattern": "[X] az [Y] -ban tal\u00e1lhat\u00f3."}
+{"relation": "P39", "pattern": "[X] poz\u00edci\u00f3ja [Y]."}
+{"relation": "P264", "pattern": "[X] az [Y] zenei c\u00edmke k\u00e9pviseli."}
+{"relation": "P276", "pattern": "[X] az [Y] -ban tal\u00e1lhat\u00f3."}
+{"relation": "P937", "pattern": "[X] szokott dolgozni [Y] -ben."}
+{"relation": "P1303", "pattern": "[X] j\u00e1tszik [Y]."}
+{"relation": "P127", "pattern": "A [X] tulajdonosa az [Y]."}
+{"relation": "P103", "pattern": "[X] anyanyelve [Y]."}
+{"relation": "P495", "pattern": "[X] j\u00f6tt l\u00e9tre az [Y] -ban."}
+{"relation": "P159", "pattern": "[X] sz\u00e9khelye [Y] -ben tal\u00e1lhat\u00f3."}
+{"relation": "P36", "pattern": "[X] f\u0151v\u00e1rosa [Y]."}
+{"relation": "P740", "pattern": "[X] -\u00e9t [Y] -ben alap\u00edtott\u00e1k."}
+{"relation": "P361", "pattern": "[X] az [Y] r\u00e9sze."}

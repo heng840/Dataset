@@ -1,0 +1,212 @@
+{"relation": "P19", "pattern": "[X]는 [Y]에서 태어났습니다."}
+{"relation": "P19", "pattern": "[X]는 원래 [Y] 출신입니다."}
+{"relation": "P19", "pattern": "[X]는 원래 [Y] 출신이었습니다."}
+{"relation": "P19", "pattern": "[X]는 [Y] 원산입니다."}
+{"relation": "P19", "pattern": "[X]는 [Y] 원산이었습니다."}
+{"relation": "P19", "pattern": "[X]는 [Y]에서 유래했습니다."}
+{"relation": "P19", "pattern": "[X]는 [Y]에서 유래합니다."}
+{"relation": "P413", "pattern": "[X]는 [Y] 포지션에서 플레이합니다."}
+{"relation": "P413", "pattern": "[X]는 [Y]로 플레이합니다."}
+{"relation": "P127", "pattern": "[X]는 [Y]가 소유하고 있습니다."}
+{"relation": "P127", "pattern": "[X]의 소유주는 [Y]입니다."}
+{"relation": "P449", "pattern": "[X]는 원래 [Y]에서 방송되었습니다."}
+{"relation": "P449", "pattern": "[X]는 [Y]에서 데뷔 예정입니다."}
+{"relation": "P449", "pattern": "[X]는 [Y]에서 데뷔했습니다."}
+{"relation": "P449", "pattern": "[X]는 [Y]에서 발매되었습니다."}
+{"relation": "P449", "pattern": "[X]는 [Y]에서 첫 선을 보였습니다."}
+{"relation": "P449", "pattern": "[X]는 [Y]에서 첫 선을 보입니다."}
+{"relation": "P106", "pattern": "[X]는 [Y]로 일하고 있습니다."}
+{"relation": "P106", "pattern": "[X]는 [Y]로 일하는 사람입니다."}
+{"relation": "P106", "pattern": "[X]의 직업은 [Y]입니다."}
+{"relation": "P106", "pattern": "[X]의 직업은 [Y]입니다."}
+{"relation": "P106", "pattern": "[X]의 전문 분야는 [Y]입니다."}
+{"relation": "P106", "pattern": "[X]의 전문 분야는 [Y]입니다."}
+{"relation": "P106", "pattern": "[X]의 전문 분야는 [Y]입니다."}
+{"relation": "P108", "pattern": "[X]는 [Y]에 고용되어 있습니다."}
+{"relation": "P108", "pattern": "[X]는 [Y]에 고용된 사람입니다."}
+{"relation": "P108", "pattern": "[X]는 [Y]의 직원입니다."}
+{"relation": "P108", "pattern": "[X]는 [Y]의 직원인 사람입니다."}
+{"relation": "P937", "pattern": "[X]는 예전에 [Y]에서 일했습니다."}
+{"relation": "P937", "pattern": "[X]는 [Y]에서 일자리를 구했습니다."}
+{"relation": "P937", "pattern": "[X]는 [Y]에서 고용되었습니다."}
+{"relation": "P937", "pattern": "[X]는 [Y]에서 일했습니다."}
+{"relation": "P937", "pattern": "[X]는 [Y]에서 일을 시작했습니다."}
+{"relation": "P136", "pattern": "[X]는 [Y]를 연주합니다."}
+{"relation": "P136", "pattern": "[X]는 [Y]를 연주하는 사람입니다."}
+{"relation": "P276", "pattern": "[X]는 [Y]에 위치해 있습니다."}
+{"relation": "P276", "pattern": "[X]는 [Y]에 있습니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]에 의해 제작됩니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]에 의해 개발됩니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]가 개발한 작품입니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]가 제작한 작품입니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]에 의해 창작됩니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]가 창작한 작품입니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]의 제품입니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]의 제품입니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]가 창작한 제품입니다."}
+{"relation": "P176", "pattern": "[X]는 [Y]가 개발한 제품입니다."}
+{"relation": "P364", "pattern": "[X]의 원래 언어는 [Y]입니다."}
+{"relation": "P364", "pattern": "[X]의 원래 언어는 [Y]였습니다."}
+{"relation": "P364", "pattern": "[X]의 언어는 [Y]입니다."}
+{"relation": "P364", "pattern": "[X]의 언어는 [Y]였습니다."}
+{"relation": "P407", "pattern": "[X]는 [Y]로 작성되었습니다."}
+{"relation": "P407", "pattern": "[X]는 [Y]로 작성되어 있습니다."}
+{"relation": "P407", "pattern": "[X]의 언어는 [Y]입니다."}
+{"relation": "P407", "pattern": "[X]의 언어는 [Y]였습니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에 설립되었습니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에 설립된 조직입니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에 설립된 조직입니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 시작된 조직입니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 시작되었습니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 시작되었습니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 만들어진 조직입니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 만들어진 조직입니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 만들어졌습니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 시작된 조직입니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 시작되었습니다."}  
+{"relation": "P740", "pattern": "[X]는 [Y]에서 결성되었습니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 결성되었습니다."}
+{"relation": "P740", "pattern": "[X]는 [Y]에서 결성된 조직입니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명되었습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명되었습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명되고 있습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명되었습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명된 작품입니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명된 작품이었습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명된 작품입니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명된 작품이었습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명된 작품입니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]의 이름을 따서 명명된 작품입니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]를 기리며 명명되었습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]를 기리며 명명되었습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]를 기리며 명명된 작품입니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]를 기리며 명명된 작품이었습니다."}
+{"relation": "P138", "pattern": "[X]는 [Y]를 기리며 명명된 작품입니다."}
+{"relation": "P17", "pattern": "[X]는 [Y]에 위치해 있습니다."}
+{"relation": "P17", "pattern": "[X]는 [Y]에 위치한 장소입니다."}
+{"relation": "P17", "pattern": "[X]는 [Y]에 위치해 있습니다."}
+{"relation": "P264", "pattern": "[X]는 음악 레이블 [Y]가 대표합니다."}
+{"relation": "P264", "pattern": "[X]는 레코드 레이블 [Y]가 대표합니다."}
+{"relation": "P264", "pattern": "[X]는 [Y]가 대표합니다."}
+{"relation": "P264", "pattern": "[X]는 [Y]가 대표하는 작품입니다."}
+{"relation": "P264", "pattern": "[X]는 [Y]가 대표하는 작품입니다."}
+{"relation": "P264", "pattern": "[X]를 대표하는 음악 레이블은 [Y]입니다."}
+{"relation": "P264", "pattern": "[X]를 대표하고 있는 음악 레이블은 [Y]입니다."}
+{"relation": "P264", "pattern": "[X]의 레이블은 [Y]입니다."}
+{"relation": "P264", "pattern": "[X]의 레코드 레이블은 [Y]입니다."}
+{"relation": "P264", "pattern": "[X]의 레코드 회사는 [Y]입니다."}
+{"relation": "P264", "pattern": "[X]의 음악 레이블은 [Y]입니다."}
+{"relation": "P264", "pattern": "[X]는 [Y]에서 녹음했습니다."}
+{"relation": "P264", "pattern": "[X]의 레이블: [Y]."}
+{"relation": "P264", "pattern": "[X]는 [Y]에서 발매되었습니다."}
+{"relation": "P27", "pattern": "[X]는 [Y]의 시민입니다."}
+{"relation": "P27", "pattern": "[X]는 [Y]의 시민입니다."}
+{"relation": "P27", "pattern": "[X]는 [Y]의 시민인 사람입니다."}
+{"relation": "P27", "pattern": "[X]는 [Y]의 시민권을 가지고 있습니다."}
+{"relation": "P27", "pattern": "[X]는 [Y]의 시민권을 가지고 있습니다."}
+{"relation": "P27", "pattern": "[X]는 [Y]의 시민권을 가지고 있는 사람입니다."}
+{"relation": "P27", "pattern": "[X]는 [Y]의 시민권을 가지고 있는 사람입니다."}
+{"relation": "P39", "pattern": "[X]는 [Y]의 직책을 맡고 있습니다."}
+{"relation": "P39", "pattern": "[X]는 [Y]의 직책을 맡고 있는 사람입니다."}
+{"relation": "P39", "pattern": "[X]의 직책은 [Y]입니다."}
+{"relation": "P39", "pattern": "[X]의 직책은 [Y]입니다."}
+{"relation": "P39", "pattern": "[X]는 [Y]의 직책을 맡고 있는 사람입니다."}
+{"relation": "P39", "pattern": "[X]는 [Y]의 직책을 맡고 있습니다."}
+{"relation": "P103", "pattern": "[X]의 모국어는 [Y]입니다."}
+{"relation": "P103", "pattern": "[X]의 모국어는 [Y]입니다."}
+{"relation": "P101", "pattern": "[X]는 [Y] 분야에서 활동하고 있습니다."}
+{"relation": "P101", "pattern": "[X]는 [Y]를 전문으로 합니다."}
+{"relation": "P101", "pattern": "[X]의 전문 분야는 [Y]입니다."}
+{"relation": "P101", "pattern": "[X]의 활동 영역은 [Y]입니다."}
+{"relation": "P101", "pattern": "[X]의 업무 영역은 [Y]입니다."}
+{"relation": "P101", "pattern": "[X]의 업무 분야는 [Y]입니다."}
+{"relation": "P101", "pattern": "[X]의 활동 분야는 [Y]입니다."}
+{"relation": "P101", "pattern": "[X]의 전문성은 [Y]입니다."}
+{"relation": "P101", "pattern": "[X]는 [Y] 영역에서 일하고 있습니다."}
+{"relation": "P20", "pattern": "[X]는 [Y]에서 사망했습니다."}
+{"relation": "P20", "pattern": "[X]는 [Y]에서 사망했습니다."}
+{"relation": "P20", "pattern": "[X]는 [Y]에서 세상을 떠났습니다."}
+{"relation": "P20", "pattern": "[X]는 [Y]에서 세상을 떠났습니다."}
+{"relation": "P20", "pattern": "[X]는 [Y]에서 생을 마감했습니다."}
+{"relation": "P20", "pattern": "[X]는 [Y]에서 목숨을 잃었습니다."}
+{"relation": "P20", "pattern": "[X]의 삶은 [Y]에서 끝났습니다."}
+{"relation": "P20", "pattern": "[X]는 [Y]에서 운명을 달리했습니다."}
+{"relation": "P159", "pattern": "[X]의 본사는 [Y]에 있습니다."}
+{"relation": "P159", "pattern": "[X]의 본사는 [Y]에 있습니다."}
+{"relation": "P159", "pattern": "[X]의 본사는 [Y]에 위치해 있습니다."}
+{"relation": "P159", "pattern": "[X]의 본사는 [Y]에 있습니다."}
+{"relation": "P159", "pattern": "[X]의 본사는 [Y]에 있습니다."}
+{"relation": "P159", "pattern": "[X]의 본사는 [Y]에 있는 기업입니다."}
+{"relation": "P159", "pattern": "[X]는 [Y]에 기반을 두고 있습니다."}
+{"relation": "P1303", "pattern": "[X]는 [Y] 역할을 연기합니다."}
+{"relation": "P1303", "pattern": "[X]는 [Y]를 연주합니다."}
+{"relation": "P1376", "pattern": "[X]는 [Y]의 수도입니다."}
+{"relation": "P1376", "pattern": "[X]는 [Y]의 수도입니다."}
+{"relation": "P1376", "pattern": "[X]는 [Y]의 수도입니다."}
+{"relation": "P1376", "pattern": "[X]는 [Y]의 수도입니다."}
+{"relation": "P1376", "pattern": "[X]는 [Y]의 수도인 도시입니다."}
+{"relation": "P1376", "pattern": "[X]는 [Y]의 수도인 도시입니다."}
+{"relation": "P30", "pattern": "[X]는 [Y]에 위치해 있습니다."}
+{"relation": "P30", "pattern": "[X]는 [Y] 대륙에 위치해 있습니다."}
+{"relation": "P30", "pattern": "[X]는 [Y] 대륙에 속해 있습니다."}
+{"relation": "P30", "pattern": "[X]는 [Y] 대륙의 일부입니다."}
+{"relation": "P530", "pattern": "[X]는 [Y]와 외교 관계를 유지하고 있습니다."}
+{"relation": "P530", "pattern": "[X]는 [Y]와 외교 관계를 맺고 있습니다."}
+{"relation": "P530", "pattern": "[X]는 [Y]와 외교 관계를 가지고 있습니다."}
+{"relation": "P530", "pattern": "[X]는 [Y]와 외교 관계를 가지고 있는 국가입니다."}
+{"relation": "P463", "pattern": "[X]는 [Y]의 회원입니다."}
+{"relation": "P463", "pattern": "[X]는 [Y]라는 조직에 소속되어 있습니다."}
+{"relation": "P463", "pattern": "[X]는 [Y]와 제휴되어 있습니다."}
+{"relation": "P361", "pattern": "[X]는 [Y]의 일부입니다."}
+{"relation": "P361", "pattern": "[X]는 [Y]의 한 부분입니다."}
+{"relation": "P131", "pattern": "[X]는 [Y]에 위치해 있습니다."}
+{"relation": "P131", "pattern": "[X]는 [Y]에 있습니다."}
+{"relation": "P131", "pattern": "[X]는 [Y]에서 발견될 수 있습니다."}
+{"relation": "P1412", "pattern": "[X]는 [Y]로 의사소통하는 데 사용되었습니다."}
+{"relation": "P1412", "pattern": "[X]는 [Y]로 의사소통했습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 만들어졌습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 만들어진 작품입니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 만들어진 작품입니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 시작된 작품입니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 시작되었습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 결성되었습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 결성되었습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 결성된 조직입니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 구상되었습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 구상된 작품입니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 구상된 작품입니다."}
+{"relation": "P495", "pattern": "[X]는 [Y] 출신이었습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y] 출신인 사람이었습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y] 출신인 사람입니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 개발된 작품입니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 개발되었습니다."}
+{"relation": "P495", "pattern": "[X]는 [Y]에서 개발된 작품입니다."}
+{"relation": "P36", "pattern": "[X]의 수도는 [Y]입니다."}
+{"relation": "P36", "pattern": "[X]의 수도는 [Y]입니다."}
+{"relation": "P36", "pattern": "[X]의 수도는 [Y]입니다."}
+{"relation": "P36", "pattern": "[X]의 수도는 [Y]입니다."}
+{"relation": "P36", "pattern": "[X]의 수도는 [Y]입니다."}
+{"relation": "P36", "pattern": "[X]의 수도는 [Y]입니다."}
+{"relation": "P36", "pattern": "[X]는 수도 [Y]를 가진 국가입니다."}
+{"relation": "P36", "pattern": "[X]는 수도 [Y]를 가진 국가입니다."}
+{"relation": "P279", "pattern": "[X]는 [Y]의 하위 클래스입니다."}
+{"relation": "P279", "pattern": "[X]는 [Y]의 하위 클래스인 개념입니다."}
+{"relation": "P279", "pattern": "[X]는 [Y]의 하위 클래스입니다."}
+{"relation": "P279", "pattern": "[X]는 [Y]의 한 종류입니다."}
+{"relation": "P47", "pattern": "[X]는 [Y]와 국경을 공유하고 있습니다."}
+{"relation": "P47", "pattern": "[X]는 [Y]와 접경하고 있습니다."}
+{"relation": "P47", "pattern": "[X]는 [Y]와 국경을 공유하고 있습니다."}
+{"relation": "P47", "pattern": "[X]는 [Y]와 국경을 맞대고 있습니다."}
+{"relation": "P47", "pattern": "[X]는 [Y]와 공통의 국경을 가지고 있습니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]에 의해 개발되고 있습니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]에 의해 개발되었습니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]가 개발한 작품입니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]에 의해 만들어지고 있습니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]에 의해 만들어졌습니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]가 만든 작품입니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]의 제품입니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]의 제품이었습니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]의 제품입니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]가 만든 제품입니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]가 제조한 제품입니다."}
+{"relation": "P178", "pattern": "[X]는 [Y]가 개발한 제품입니다."}

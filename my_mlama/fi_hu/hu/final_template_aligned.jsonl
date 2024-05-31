@@ -1,0 +1,138 @@
+{"relation": "P19", "pattern": "[X] [Y]-ből származik."}
+{"relation": "P19", "pattern": "[X] [Y]-ból eredeztethető."}
+{"relation": "P19", "pattern": "[X] [Y]-ben látta meg a napvilágot."}
+{"relation": "P19", "pattern": "[X] [Y]-ben született."}
+{"relation": "P19", "pattern": "[X] [Y]-ből való."}
+{"relation": "P19", "pattern": "[X] [Y]-i származású."}
+{"relation": "P413", "pattern": "[X] [Y] pozícióban játszik."}
+{"relation": "P413", "pattern": "[X] [Y]-ként játszik."}
+{"relation": "P127", "pattern": "[X] tulajdonosa [Y]."}
+{"relation": "P127", "pattern": "[X]-et [Y] birtokolja."}
+{"relation": "P449", "pattern": "[X] [Y]-on debütál."}
+{"relation": "P449", "pattern": "[X] [Y]-on került bemutatásra."}
+{"relation": "P449", "pattern": "[X]-et először [Y]-on sugározták."}
+{"relation": "P449", "pattern": "[X] [Y]-on kerül bemutatásra."}
+{"relation": "P449", "pattern": "[X]-et [Y]-on adták ki."}
+{"relation": "P449", "pattern": "[X] [Y]-on debütált."}
+{"relation": "P106", "pattern": "[X] [Y]-ként tevékenykedik."}
+{"relation": "P106", "pattern": "[X] szakmája [Y]."}
+{"relation": "P106", "pattern": "[X], aki [Y]-ként dolgozik."}
+{"relation": "P106", "pattern": "[X] hivatása [Y]."}
+{"relation": "P106", "pattern": "[X] foglalkozása szerint [Y]."}
+{"relation": "P108", "pattern": "[X], aki [Y]-nál dolgozik."}
+{"relation": "P108", "pattern": "[X] [Y] alkalmazottja."}
+{"relation": "P108", "pattern": "[X] [Y]-nál dolgozik."}
+{"relation": "P108", "pattern": "[X], akit [Y] foglalkoztat."}
+{"relation": "P937", "pattern": "[X] [Y]-ban dolgozott."}
+{"relation": "P937", "pattern": "[X] [Y]-ban volt alkalmazásban."}
+{"relation": "P937", "pattern": "[X] [Y]-ban talált munkát."}
+{"relation": "P937", "pattern": "[X] [Y]-ban kezdett dolgozni."}
+{"relation": "P937", "pattern": "[X] korábban [Y]-ban dolgozott."}
+{"relation": "P136", "pattern": "[X] [Y]-t játszik."}
+{"relation": "P136", "pattern": "[X], aki [Y]-t játszik."}
+{"relation": "P276", "pattern": "[X] [Y]-ban található."}
+{"relation": "P276", "pattern": "[X] [Y]-ban van."}
+{"relation": "P176", "pattern": "[X], [Y] által létrehozott termék."}
+{"relation": "P176", "pattern": "[X], amelyet [Y] alkot."}
+{"relation": "P176", "pattern": "[X]-et [Y] fejleszti."}
+{"relation": "P176", "pattern": "[X]-et [Y] alkotja."}
+{"relation": "P176", "pattern": "[X], [Y] által kifejlesztett termék."}
+{"relation": "P176", "pattern": "[X], amelyet [Y] fejleszt."}
+{"relation": "P176", "pattern": "[X], [Y] terméke."}
+{"relation": "P176", "pattern": "[X]-et [Y] gyártja."}
+{"relation": "P176", "pattern": "[X], amelyet [Y] gyárt."}
+{"relation": "P176", "pattern": "[X] [Y] terméke."}
+{"relation": "P364", "pattern": "[X] nyelve [Y]."}
+{"relation": "P364", "pattern": "[X] eredeti nyelve [Y]."}
+{"relation": "P407", "pattern": "[X] nyelve [Y]."}
+{"relation": "P407", "pattern": "[X]-et [Y] nyelven írták."}
+{"relation": "P407", "pattern": "[X] [Y] nyelven íródott."}
+{"relation": "P740", "pattern": "[X], amelyet [Y]-ben hoztak létre."}
+{"relation": "P740", "pattern": "[X] [Y]-ben alakult."}
+{"relation": "P740", "pattern": "[X] [Y]-ben kezdte működését."}
+{"relation": "P740", "pattern": "[X], amelyet [Y]-ben alapítottak."}
+{"relation": "P740", "pattern": "[X]-et [Y]-ben alapították."}
+{"relation": "P740", "pattern": "[X] [Y]-ben jött létre."}
+{"relation": "P740", "pattern": "[X], amelyet [Y]-ben alakítottak."}
+{"relation": "P138", "pattern": "[X] [Y] nevét viseli."}
+{"relation": "P138", "pattern": "[X]-et [Y] után nevezték el."}
+{"relation": "P138", "pattern": "[X], amely [Y] nevét viseli."}
+{"relation": "P138", "pattern": "[X], amelyet [Y] után neveztek el."}
+{"relation": "P138", "pattern": "[X], [Y] után elnevezve."}
+{"relation": "P17", "pattern": "[X] [Y]-ban található."}
+{"relation": "P17", "pattern": "[X], amely [Y]-ban található."}
+{"relation": "P17", "pattern": "[X], [Y]-ban elhelyezkedő."}
+{"relation": "P264", "pattern": "[X] kiadója [Y]."}
+{"relation": "P264", "pattern": "[X] lemezkiadója: [Y]."}
+{"relation": "P264", "pattern": "[X]-et az [Y] lemezkiadó képviseli."}
+{"relation": "P264", "pattern": "[X], [Y] által kiadva."}
+{"relation": "P264", "pattern": "[X], amelyet [Y] képvisel."}
+{"relation": "P264", "pattern": "[X] az [Y] kiadónál jelentetett meg lemezt."}
+{"relation": "P264", "pattern": "[X]-et [Y] képviseli."}
+{"relation": "P264", "pattern": "[X] lemezcége [Y]."}
+{"relation": "P27", "pattern": "[X], akinek [Y] állampolgársága van."}
+{"relation": "P27", "pattern": "[X] [Y] állampolgára."}
+{"relation": "P27", "pattern": "[X], [Y] állampolgárságával rendelkezik."}
+{"relation": "P39", "pattern": "[X] [Y] pozíciót tölti be."}
+{"relation": "P39", "pattern": "[X] beosztása [Y]."}
+{"relation": "P39", "pattern": "[X], aki [Y] pozíciót tölti be."}
+{"relation": "P39", "pattern": "[X], akinek beosztása [Y]."}
+{"relation": "P101", "pattern": "[X] szakterülete [Y]."}
+{"relation": "P101", "pattern": "[X] tevékenységi köre [Y]."}
+{"relation": "P101", "pattern": "[X] munkaterülete [Y]."}
+{"relation": "P101", "pattern": "[X] szakértelme [Y]-ra terjed ki."}
+{"relation": "P101", "pattern": "[X] az [Y] területén tevékenykedik."}
+{"relation": "P101", "pattern": "[X] [Y]-ra specializálódott."}
+{"relation": "P101", "pattern": "[X] az [Y] területén dolgozik."}
+{"relation": "P20", "pattern": "[X] [Y]-ban távozott az élők sorából."}
+{"relation": "P20", "pattern": "[X] [Y]-ban vesztette életét."}
+{"relation": "P20", "pattern": "[X] élete [Y]-ban ért véget."}
+{"relation": "P20", "pattern": "[X] [Y]-ban hunyt el."}
+{"relation": "P159", "pattern": "[X], [Y]-ban székelő."}
+{"relation": "P159", "pattern": "[X], amelynek székhelye [Y]-ban van."}
+{"relation": "P159", "pattern": "[X] központja [Y]-ban van."}
+{"relation": "P159", "pattern": "[X] székhelye [Y]-ban található."}
+{"relation": "P1303", "pattern": "[X] [Y]-t játszik."}
+{"relation": "P1303", "pattern": "[X] [Y] hangszeren játszik."}
+{"relation": "P1376", "pattern": "[X], amely [Y] fővárosa."}
+{"relation": "P1376", "pattern": "[X] [Y] fővárosa."}
+{"relation": "P1376", "pattern": "[X], [Y] fővárosa."}
+{"relation": "P30", "pattern": "[X] [Y]-ban található."}
+{"relation": "P30", "pattern": "[X] [Y] kontinensen található."}
+{"relation": "P30", "pattern": "[X] [Y] kontinens része."}
+{"relation": "P30", "pattern": "[X] [Y] kontinenshez tartozik."}
+{"relation": "P530", "pattern": "[X], amely diplomáciai kapcsolatban áll [Y]-val."}
+{"relation": "P530", "pattern": "[X] diplomáciai kapcsolatokat tart fenn [Y]-val."}
+{"relation": "P530", "pattern": "[X] diplomáciai kapcsolatban áll [Y]-val."}
+{"relation": "P463", "pattern": "[X] [Y]-hoz kapcsolódik."}
+{"relation": "P463", "pattern": "[X] [Y] tagja."}
+{"relation": "P463", "pattern": "[X] [Y] szervezethez tartozik."}
+{"relation": "P131", "pattern": "[X] [Y]-ban található."}
+{"relation": "P131", "pattern": "[X] [Y]-ban lelhető fel."}
+{"relation": "P495", "pattern": "[X], [Y]-ban kifejlesztve."}
+{"relation": "P495", "pattern": "[X], amely [Y]-ban jött létre."}
+{"relation": "P495", "pattern": "[X] [Y]-ban jött létre."}
+{"relation": "P495", "pattern": "[X] [Y]-ban lett kifejlesztve."}
+{"relation": "P495", "pattern": "[X], amely [Y]-ból származik."}
+{"relation": "P495", "pattern": "[X] [Y]-ban alakult."}
+{"relation": "P495", "pattern": "[X], [Y]-ban létrehozva."}
+{"relation": "P495", "pattern": "[X], amely [Y]-ban alakult."}
+{"relation": "P495", "pattern": "[X] [Y]-ból származik."}
+{"relation": "P36", "pattern": "[X], amelynek fővárosa [Y]."}
+{"relation": "P36", "pattern": "[X] fővárosa [Y]."}
+{"relation": "P36", "pattern": "[X] fővárosi rangú városa [Y]."}
+{"relation": "P279", "pattern": "[X], [Y] egy típusa."}
+{"relation": "P279", "pattern": "[X] [Y] alosztálya."}
+{"relation": "P279", "pattern": "[X], amely [Y] alosztálya."}
+{"relation": "P279", "pattern": "[X], [Y] alosztályaként."}
+{"relation": "P47", "pattern": "[X] határos [Y]-val."}
+{"relation": "P47", "pattern": "[X] közös határt képez [Y]-val."}
+{"relation": "P178", "pattern": "[X] [Y] terméke volt."}
+{"relation": "P178", "pattern": "[X]-et [Y] fejlesztette ki."}
+{"relation": "P178", "pattern": "[X], [Y] által kifejlesztve."}
+{"relation": "P178", "pattern": "[X], [Y] által előállított termék."}
+{"relation": "P178", "pattern": "[X]-et [Y] készítette."}
+{"relation": "P178", "pattern": "[X] [Y] terméke."}
+{"relation": "P178", "pattern": "[X], [Y] által gyártott termék."}
+{"relation": "P178", "pattern": "[X]-et [Y] alkotta."}
+{"relation": "P178", "pattern": "[X], [Y] alkotása."}

@@ -1,0 +1,35 @@
+{"relation": "P19", "pattern": "[X] was born in [Y] ."}
+{"relation": "P20", "pattern": "[X] died in [Y] ."}
+{"relation": "P279", "pattern": "[X] is a subclass of [Y] ."}
+{"relation": "P413", "pattern": "[X] plays in [Y] position ."}
+{"relation": "P449", "pattern": "[X] was originally aired on [Y] ."}
+{"relation": "P47", "pattern": "[X] shares border with [Y] ."}
+{"relation": "P138", "pattern": "[X] is named after [Y] ."}
+{"relation": "P364", "pattern": "The original language of [X] is [Y] ."}
+{"relation": "P463", "pattern": "[X] is a member of [Y] ."}
+{"relation": "P101", "pattern": "[X] works in the field of [Y] ."}
+{"relation": "P106", "pattern": "[X] is a [Y] by profession ."}
+{"relation": "P530", "pattern": "[X] maintains diplomatic relations with [Y] ."}
+{"relation": "P176", "pattern": "[X] is produced by [Y] ."}
+{"relation": "P27", "pattern": "[X] is [Y] citizen ."}
+{"relation": "P407", "pattern": "[X] was written in [Y] ."}
+{"relation": "P30", "pattern": "[X] is located in [Y] ."}
+{"relation": "P178", "pattern": "[X] is developed by [Y] ."}
+{"relation": "P1376", "pattern": "[X] is the capital of [Y] ."}
+{"relation": "P131", "pattern": "[X] is located in [Y] ."}
+{"relation": "P1412", "pattern": "[X] used to communicate in [Y] ."}
+{"relation": "P108", "pattern": "[X] works for [Y] ."}
+{"relation": "P136", "pattern": "[X] plays [Y] music ."}
+{"relation": "P17", "pattern": "[X] is located in [Y] ."}
+{"relation": "P39", "pattern": "[X] has the position of [Y] ."}
+{"relation": "P264", "pattern": "[X] is represented by music label [Y] ."}
+{"relation": "P276", "pattern": "[X] is located in [Y] ."}
+{"relation": "P937", "pattern": "[X] used to work in [Y] ."}
+{"relation": "P1303", "pattern": "[X] plays [Y] ."}
+{"relation": "P127", "pattern": "[X] is owned by [Y] ."}
+{"relation": "P103", "pattern": "The native language of [X] is [Y] ."}
+{"relation": "P495", "pattern": "[X] was created in [Y] ."}
+{"relation": "P159", "pattern": "The headquarter of [X] is in [Y] ."}
+{"relation": "P36", "pattern": "The capital of [X] is [Y] ."}
+{"relation": "P740", "pattern": "[X] was founded in [Y] ."}
+{"relation": "P361", "pattern": "[X] is part of [Y] ."}
